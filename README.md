@@ -18,3 +18,5 @@ This Java program, "Lottery Number Comparison," is a simple application that sim
 **Contributing:**
 This is a basic example, but you can contribute by improving the user interface, adding more advanced features, or extending the lottery game's rules and complexity.
 
+
+( 2-YR 1-SEM OOP )
